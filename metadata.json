@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nexus",
+  "description": "Modern multi-app super platform UI with glassmorphism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
